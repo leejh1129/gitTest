@@ -8,7 +8,7 @@ public class SampleController {
 
 	@GetMapping("/")
 	public String main() {
-		return "sample";
+		return "sample update";
 	}
 	
 }
